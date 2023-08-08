@@ -24,8 +24,6 @@ I'm an undergraduate Information Technology Student at Batangas State University
 
 ## Working and Advancing Stack
 
-### User Interface
-
 <h3>Front End</h3>
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white">
