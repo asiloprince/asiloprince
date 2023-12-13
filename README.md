@@ -16,7 +16,7 @@
 
 ## About Me
 
-<p> <img src="  <img src="https://github.com/asiloprince/asiloprince/assets/85353436/babbd2d7-490e-4eec-ae60-de67e8d8d55f" width="20px" height="20px"/>  " width="20px"/>  I'm an undergraduate Information Technology Student at Batangas State University.</p>
+<p> <img src="https://github.com/asiloprince/asiloprince/assets/85353436/babbd2d7-490e-4eec-ae60-de67e8d8d55f" width="20px"/>  I'm an undergraduate Information Technology Student at Batangas State University.</p>
 
 - 👨‍💻 - I'm developing modern web applications using the MERN stack 
 - 🚀 - My goal is to become a skilled full stack web developer
