@@ -16,7 +16,7 @@
 
 ## About Me
 
-<p> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fbd%2FBatangas_State_Logo.png&tbnid=5D6kKar5YpeJeM&vet=12ahUKEwj74_CC5oyDAxUUa2wGHUjxDv4QMygDegQIARB0..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBatangas_State_University&docid=WM-pUgiYNHLMdM&w=326&h=306&q=bsu&ved=2ahUKEwj74_CC5oyDAxUUa2wGHUjxDv4QMygDegQIARB0" width="20px"/>  I'm an undergraduate Information Technology Student at Batangas State University.</p>
+<p> <img src="  <img src="https://github.com/asiloprince/asiloprince/assets/85353436/babbd2d7-490e-4eec-ae60-de67e8d8d55f" width="20px" height="20px"/>  " width="20px"/>  I'm an undergraduate Information Technology Student at Batangas State University.</p>
 
 - 👨‍💻 - I'm developing modern web applications using the MERN stack 
 - 🚀 - My goal is to become a skilled full stack web developer
