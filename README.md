@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm an undergraduate Information Technology Student at Batangas State University.
+<p> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fbd%2FBatangas_State_Logo.png&tbnid=5D6kKar5YpeJeM&vet=12ahUKEwj74_CC5oyDAxUUa2wGHUjxDv4QMygDegQIARB0..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBatangas_State_University&docid=WM-pUgiYNHLMdM&w=326&h=306&q=bsu&ved=2ahUKEwj74_CC5oyDAxUUa2wGHUjxDv4QMygDegQIARB0" width="20px"/>  I'm an undergraduate Information Technology Student at Batangas State University.</p>
 
-- 👨‍💻 - I'm developing web apps using the MERN Stack.
-- 🚀 - I want to become a full stack web developer.
-- 📚 - Currently, I'm in the process of learning Next.js.
+- 👨‍💻 - I'm developing modern web applications using the MERN stack 
+- 🚀 - My goal is to become a skilled full stack web developer
+- 📚 - I'm currently learning Next.js to build server-rendered React applications
 
 ## Working and Advancing Stack
 
@@ -46,6 +46,13 @@ I'm an undergraduate Information Technology Student at Batangas State University
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+
+<h3>Website Hosting Platforms</h3>
+<div style="display: flex; gap: 10px;">
+<img src="https://img.shields.io/badge/UBUNTU VPS-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx"/>
 </div>
 
 ## View My Open Source Projects
