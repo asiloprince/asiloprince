@@ -4,7 +4,7 @@
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20Welcome%20to%20my%20GitHub%20Profile!%20&frame=ffffff&speed=100&comment=">
     </a>
 <p align="center">
-    <img src="https://gifdb.com/images/high/genshin-gif-file-5777kb-yqvozsp5iuxkfz36.webp" alt="Profile GIF" width="200">
+    <img src="https://github.com/asiloprince/asiloprince/assets/151169830/c364b475-a6ae-4091-94bd-febe9161d8a0" alt="Profile GIF" width="200">
 </p>
     <p>
         <img draggable="false" style="width:119px;height:20px;" src="https://komarev.com/ghpvc/?username=asiloprince&style=for-the-badge&color=1C8C8C">
