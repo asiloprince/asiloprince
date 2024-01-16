@@ -5,7 +5,7 @@
     </a>
 <p align="center">
 <!--     <img src="https://github.com/asiloprince/asiloprince/assets/151169830/c364b475-a6ae-4091-94bd-febe9161d8a0" alt="Profile GIF" width="200"> -->
-    ⚡ <a href="asiloprincegerald.now.sh" target="_blank">asiloprincegerald.now.sh</a> ⚡
+    ⚡ <a href="https://asiloprincegerald.vercel.app/" target="_blank">asiloprincegerald.now.sh</a> ⚡
 </p>
     <p>
         <img draggable="false" style="width:119px;height:20px;" src="https://komarev.com/ghpvc/?username=asiloprince&style=for-the-badge&color=1C8C8C">
