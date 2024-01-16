@@ -60,8 +60,5 @@
 
 🎉 [View My Projects](https://github.com/asiloprince/) 🎉
 
-## My Statistics
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/prncetc)
 
-[![Asilo GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiloprince&theme=tokyonight&count_private=true)](https://github.com/asiloprince/)
-
-<a href="https://www.buymeacoffee.com/asiloprince" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;"></a>
